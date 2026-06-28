@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1250" viewBox="0 0 1000 1250">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1a1a"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="1250" fill="url(#g)"/>
+  <circle cx="500.0" cy="525.0" r="160.0" fill="none" stroke="#C9C2B4" stroke-width="2" opacity="0.85"/>
+  <line x1="500.0" y1="685.0" x2="500.0" y2="865.0" stroke="#C9C2B4" stroke-width="2" opacity="0.85"/>
+  <text x="500.0" y="975.0" font-family="monospace" font-size="32.0" fill="#C9C2B4" text-anchor="middle" opacity="0.7" letter-spacing="2">PRODUCT 03</text>
+</svg>

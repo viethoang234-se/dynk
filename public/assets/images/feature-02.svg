@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="1000" viewBox="0 0 1400 1000">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1a1a1a"/>
+      <stop offset="1" stop-color="#0a0a0a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1000" fill="url(#g)"/>
+  <circle cx="700.0" cy="420.0" r="160.0" fill="none" stroke="#C9C2B4" stroke-width="2" opacity="0.85"/>
+  <line x1="700.0" y1="580.0" x2="700.0" y2="760.0" stroke="#C9C2B4" stroke-width="2" opacity="0.85"/>
+  <text x="700.0" y="780.0" font-family="monospace" font-size="32.0" fill="#C9C2B4" text-anchor="middle" opacity="0.7" letter-spacing="2">FEATURE 02</text>
+</svg>
